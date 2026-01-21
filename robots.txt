@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bhoomirtc.net.in/sitemap.xml
+
+Sitemap: https://parivahannsewa.github.io/sitemap.xml
